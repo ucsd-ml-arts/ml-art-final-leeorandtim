@@ -2,7 +2,7 @@
 
 Tim Morton, tdmorton@ucsd.edu
 
-Chaitanya Galivanche, 
+Chaitanya Galivanche, cgalivan@ucsd.edu
 
 Leeor Nehardea, lneharde@ucsd.edu
 
