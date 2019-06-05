@@ -1,7 +1,9 @@
 # Final Project
 
 Tim Morton, tdmorton@ucsd.edu
+
 Chaitanya Galivanche, 
+
 Leeor Nehardea, lneharde@ucsd.edu
 
 ## Abstract Proposal
