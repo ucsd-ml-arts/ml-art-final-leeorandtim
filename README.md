@@ -9,7 +9,7 @@ Leeor Nehardea, lneharde@ucsd.edu
 ## Abstract Proposal
 
 We want to continue on our project four concept. 
-We hope to get a webcam capturing the people in front of it; it will then take a picture of the person/ group and use object detection for the essential features (body, eyes, beard,  mouth, etc.) and have it color/ mask the picture. Then, the image will go through some style transform to yield the final result. 
+We hope to get a webcam capturing the people in front of it; it will then take a picture of the person/ group and use object detection for the essential features (body, eyes, beard,  mouth, etc.) and have it color/ mask the picture. Then, the image will go through some style transform (possibly Neural Doodle) to yield the final result. 
 
 ## Project Report
 
